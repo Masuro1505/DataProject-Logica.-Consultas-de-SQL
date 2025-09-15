@@ -3,7 +3,7 @@ Proyecto de consultas SQL sobre una base de datos ficticia de alquiler de pelíc
 
 ## Datos
 - Fuente: esquema proporcionado por el curso/máster.  
-- Archivo principal: `BBDD_Proyecto_Consultas_Resueltas.sql` → contiene todas las consultas resueltas, numeradas y comentadas, tal como se redactaron en Visual Studio Code y comprobadas en DBeaver.  
+- Archivo principal: `BBDD_Proyecto_Consultas_Resueltas.sql` → contiene todas las consultas resueltas, numeradas y comentadas, tal como se redactaron en Visual Studio Code y comprobadas en DBeaver. Incluye también el esquema de la BBDD requerido (enunciado #1) 
 
 ## Pasos del análisis
 1. Importación del esquema de la base de datos en PostgreSQL.  
