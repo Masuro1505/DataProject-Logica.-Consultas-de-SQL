@@ -18,6 +18,9 @@ Proyecto de consultas SQL sobre una base de datos ficticia de alquiler de pelíc
 - No se buscó identificar patrones generales de los datos, ya que son muchos, pero las consultas permiten explorar cualquier aspecto de la información disponible.  
 - Trabajar con **Visual Studio Code** para redactar las consultas y **DBeaver** para comprobar los resultados ha sido muy útil para mantener todo organizado y claro.
 
+## Nota  
+En algunas ocasiones me apoyé en **Inteligencia Artificial** como ayuda puntual, pero siempre como complemento: las soluciones finales son propias. A lo largo del proyecto también incluí comentarios en algunos ejercicios para explicar razonamientos o aprendizajes clave.
+
 ## Estructura del repositorio
 - `README.md` → este archivo con explicación del proyecto.  
 - `BBDD_Proyecto_Consultas_Resueltas.sql` → archivo SQL con todas las consultas resueltas, numeradas y comentadas, realizado en Visual Studio Code y comprobado en DBeaver.
